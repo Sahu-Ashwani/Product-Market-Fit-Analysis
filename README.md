@@ -30,3 +30,37 @@ This project presents a **comprehensive product-market fit analysis** for **AirP
 Before committing to manufacturing and R&D investment, the company needed **data-driven validation** that there is a **clear market need**, with strong and sustained demand across specific Indian cities.
 
 ---
+
+
+PRIMARY DATA (Challenge Dataset)
+├── AQI Data (2022-2025)
+│   └── Daily measurements across 130+ cities
+├── Health Outbreak (2022-2025)
+│   └── 5,000+ disease incidents
+├── Vahan (2022-2025)
+│   └── EV adoption & vehicle registrations
+└── Population (2022-2025)
+    └── Urban/rural demographics
+
+SECONDARY DATA (Self-Collected)
+├── Google Trends
+│   └── Search interest: "AQI", "Air Purifier", "Pollution Effect"
+├── NCAP Reports
+│   └── State targets & achievements
+├── Government Budget
+│   └── Air pollution control expenditure
+└── MPCE Survey 2023-24
+    └── Monthly per capita spending
+
+DATA PROCESSING
+├── Power Query → Cleaning & Transformation
+├── Excel → Initial exploration
+└── DAX → Custom calculations
+
+ANALYTICS OUTPUT
+└── 5 Interactive Dashboards
+    ├── AQI Severity
+    ├── Health Impact
+    ├── Consumer Awareness
+    ├── Economic Feasibility
+    └── Executive Summary

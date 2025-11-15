@@ -16,8 +16,7 @@ This project presents a **comprehensive product-market fit analysis** for **AirP
 
 ## 🎯 **Business Context & Challenge**
 
-**AirPure Innovations** is a new startup aiming to address the rising **air pollution crisis in India**.  
-The company is in the early stages of product development and is unsure whether there is a **strong, sustained demand** for its air purifier product.
+**AirPure Innovations** is a new startup aiming to address the rising **air pollution crisis in India**. The company is in the early stages of product development and is unsure whether there is a **strong, sustained demand** for its air purifier product.
 
 ### 🧩 **Critical Business Questions**
 
@@ -28,7 +27,6 @@ The company is in the early stages of product development and is unsure whether 
 
 ### ⚠️ **The Stakes**
 
-Before committing to manufacturing and R&D investment, the company needed **data-driven validation** that there is  
-a **clear market need**, with strong and sustained demand across specific Indian cities.
+Before committing to manufacturing and R&D investment, the company needed **data-driven validation** that there is a **clear market need**, with strong and sustained demand across specific Indian cities.
 
 ---

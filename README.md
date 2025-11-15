@@ -57,10 +57,10 @@ I developed a **4-step validation framework** to assess product–market fit:
 
 ## 🔍 **Analysis Dimensions**
 
->  📍 **AQI Severity** → Where is pollution worst?  
->  🏥 **Health Impact** → Who is most affected?  
->  🧠 **Consumer Awareness** → Do people know about the problem?  
->  💰 **Economic Feasibility** → Can they afford solutions?  
+>  📍 [**AQI Severity**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/AQI%20Severity%20Dashboard.png) → Where is pollution worst?  
+>  🏥 [**Health Impact**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/Health%20Impact%20Dashboard.png) → Who is most affected?  
+>  🧠 [**Consumer Awareness**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/Consumer%20Awareness%20Dashboard.png) → Do people know about the problem?  
+>  💰 [**Economic Feasibility**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/Economic%20Feasibility%20Dashboard.png) → Can they afford solutions?  
 
 ---
 
@@ -107,7 +107,7 @@ I developed a **4-step validation framework** to assess product–market fit:
 
 ## 📈 **Dashboard Walkthrough**
 
-### **1️⃣ AQI Severity Dashboard**
+### [**1️⃣ AQI Severity Dashboard**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/AQI%20Severity%20Dashboard.png)
 **Purpose:** Identify where pollution is most persistent and when it peaks  
 
 **Key Metrics:**  
@@ -122,7 +122,7 @@ I developed a **4-step validation framework** to assess product–market fit:
 
 ---
 
-### **2️⃣ Health Impact Dashboard**
+### [**2️⃣ Health Impact Dashboard**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/Health%20Impact%20Dashboard.png)
 **Purpose:** Prove that poor air quality directly impacts health  
 
 **Key Metrics:**  
@@ -137,7 +137,7 @@ I developed a **4-step validation framework** to assess product–market fit:
 
 ---
 
-### **3️⃣ Consumer Awareness Dashboard**
+### [**3️⃣ Consumer Awareness Dashboard**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/Consumer%20Awareness%20Dashboard.png)
 **Purpose:** Measure whether people understand the pollution problem and potential solutions  
 
 **Key Metrics:**  
@@ -157,7 +157,7 @@ Additional Metrics:
 
 ---
 
-### **4️⃣ Economic Feasibility Dashboard**
+### [**4️⃣ Economic Feasibility Dashboard**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/Economic%20Feasibility%20Dashboard.png)
 **Purpose:** Confirm if the target audience can afford the product  
 
 **Key Metrics:**  
@@ -171,7 +171,7 @@ Additional Metrics:
 
 ---
 
-### **5️⃣ Executive Summary**
+### [**5️⃣ Executive Summary**](https://github.com/Sahu-Ashwani/Product-Market-Fit-Analysis/blob/main/Executive%20Summary%20Dashboard.png)
 **Purpose:** Present a one-page strategic view for quick decision-making  
 
 **Includes:**  

@@ -32,35 +32,35 @@ Before committing to manufacturing and R&D investment, the company needed **data
 ---
 
 
-PRIMARY DATA (Challenge Dataset)
-├── AQI Data (2022-2025)
-│   └── Daily measurements across 130+ cities
-├── Health Outbreak (2022-2025)
-│   └── 5,000+ disease incidents
-├── Vahan (2022-2025)
-│   └── EV adoption & vehicle registrations
-└── Population (2022-2025)
-    └── Urban/rural demographics
+PRIMARY DATA (Challenge Dataset)<br>
+├── AQI Data (2022-2025)<br>
+│   └── Daily measurements across 130+ cities<br>
+├── Health Outbreak (2022-2025)<br>
+│   └── 5,000+ disease incidents<br>
+├── Vahan (2022-2025)<br>
+│   └── EV adoption & vehicle registrations<br>
+└── Population (2022-2025)<br>
+    └── Urban/rural demographics<br>
+<br>
+SECONDARY DATA (Self-Collected)<br>
+├── Google Trends<br>
+│   └── Search interest: "AQI", "Air Purifier", "Pollution Effect"<br>
+├── NCAP Reports<br>
+│   └── State targets & achievements<br>
+├── Government Budget<br>
+│   └── Air pollution control expenditure<br>
+└── MPCE Survey 2023-24<br>
+    └── Monthly per capita spending<br>
 
-SECONDARY DATA (Self-Collected)
-├── Google Trends
-│   └── Search interest: "AQI", "Air Purifier", "Pollution Effect"
-├── NCAP Reports
-│   └── State targets & achievements
-├── Government Budget
-│   └── Air pollution control expenditure
-└── MPCE Survey 2023-24
-    └── Monthly per capita spending
+DATA PROCESSING<br>
+├── Power Query → Cleaning & Transformation<br>
+├── Excel → Initial exploration<br>
+└── DAX → Custom calculations<br>
 
-DATA PROCESSING
-├── Power Query → Cleaning & Transformation
-├── Excel → Initial exploration
-└── DAX → Custom calculations
-
-ANALYTICS OUTPUT
-└── 5 Interactive Dashboards
-    ├── AQI Severity
-    ├── Health Impact
-    ├── Consumer Awareness
-    ├── Economic Feasibility
-    └── Executive Summary
+ANALYTICS OUTPUT<br>
+└── 5 Interactive Dashboards<br>
+    ├── AQI Severity<br>
+    ├── Health Impact<br>
+    ├── Consumer Awareness<br>
+    ├── Economic Feasibility<br>
+    └── Executive Summary<br>

@@ -205,3 +205,27 @@ Additional Metrics:
 - Business metrics development  
 - Stakeholder requirement analysis  
 - Strategic recommendation formulation  
+
+---
+
+## 📁 Project Structure
+
+air-purifier-market-analysis/<br>
+│<br>
+├── data/<br>
+│   ├── aqi_data.csv<br>
+│   ├── health_data.csv<br>
+│   ├── awareness_trends.csv<br>
+│   └── economic_indicators.csv<br>
+│<br>
+├── dashboards/<br>
+│   └── AirPure_Analysis.pbix<br>
+│<br>
+├── dashboard_previews/<br>
+│   ├── AQI Severity Dashboard/<br>
+│   ├── Health Impact Dashboard.csv<br>
+│   ├── Consumer Awareness Dashboard.csv<br>
+│   ├── Economic Feasibility Dashboard<br>
+│   └── Executive Summary/<br>
+│<br>
+└── README.md<br>

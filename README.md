@@ -1,5 +1,7 @@
 # 🌬️ Product-Market Fit Analysis — **AirPure Innovations**
 
+## 📋 Project Overview
+
 This project presents a **comprehensive product-market fit analysis** for **AirPure Innovations**, a startup planning to enter India's rapidly growing **air purifier market**. Using **3+ years of AQI data** across Indian cities, health impact patterns, and demand triggers, this analysis identifies:
 
 - ✅ **Priority launch markets** (Tier 1/2 cities)  

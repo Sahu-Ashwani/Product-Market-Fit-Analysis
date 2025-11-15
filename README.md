@@ -13,7 +13,6 @@ This project presents a **comprehensive product-market fit analysis** for **AirP
 🔗 **Power BI Dashboard** - [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGE1OTBkZDYtZDg3NS00YmFlLWI2MjQtMWVkOTRlNzJkMDM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ba3af568e1ae2bed5082)
 
 ---
-
 ## 🎯 **Business Context & Challenge**
 
 **AirPure Innovations** is a new startup aiming to address the rising **air pollution crisis in India**. The company is in the early stages of product development and is unsure whether there is a **strong, sustained demand** for its air purifier product.
@@ -31,36 +30,38 @@ Before committing to manufacturing and R&D investment, the company needed **data
 
 ---
 
+## 🧠 **Methodology & Framework**
 
-PRIMARY DATA (Challenge Dataset)<br>
-├── AQI Data (2022-2025)<br>
-│   └── Daily measurements across 130+ cities<br>
-├── Health Outbreak (2022-2025)<br>
-│   └── 5,000+ disease incidents<br>
-├── Vahan (2022-2025)<br>
-│   └── EV adoption & vehicle registrations<br>
-└── Population (2022-2025)<br>
-    └── Urban/rural demographics<br>
-<br>
-SECONDARY DATA (Self-Collected)<br>
-├── Google Trends<br>
-│   └── Search interest: "AQI", "Air Purifier", "Pollution Effect"<br>
-├── NCAP Reports<br>
-│   └── State targets & achievements<br>
-├── Government Budget<br>
-│   └── Air pollution control expenditure<br>
-└── MPCE Survey 2023-24<br>
-    └── Monthly per capita spending<br>
+I developed a **4-step validation framework** to assess product–market fit:
 
-DATA PROCESSING<br>
-├── Power Query → Cleaning & Transformation<br>
-├── Excel → Initial exploration<br>
-└── DAX → Custom calculations<br>
+### **🔹 Step 1: Does the Problem Actually Exist? (AQI Severity Analysis)**  
+- Examined **AQI trends** and severity mapping across regions  
+- Identified **pollution hotspots** and **seasonal patterns**  
 
-ANALYTICS OUTPUT<br>
-└── 5 Interactive Dashboards<br>
-    ├── AQI Severity<br>
-    ├── Health Impact<br>
-    ├── Consumer Awareness<br>
-    ├── Economic Feasibility<br>
-    └── Executive Summary<br>
+### **🔹 Step 2: Do Enough People Face This Problem? (Consumer Awareness)**  
+- Validated **population exposure** in high-AQI zones  
+- Assessed consumer awareness using **search trends**  
+- Evaluated **government actions** and **policy impacts**  
+
+
+### **🔹 Step 3: Does This Problem Significantly Impact Lives? (Health Impact)**  
+- Correlated **health outcomes** with AQI data  
+- Analyzed **disease outbreaks**, hospital admissions, and mortality trends  
+- Identified **age groups most affected**  
+
+### **🔹 Step 4: Can the Target Market Afford the Solution? (Economic Feasibility)**  
+- Assessed buying capacity using **MPCE (Monthly Per Capita Expenditure)**  
+- Layered **economic data** onto pollution hotspots  
+- Calculated **economic feasibility scores** by region  
+
+
+## 🔍 **Analysis Dimensions**
+
+> - 📍 **AQI Severity** → Where is pollution worst?  
+> - 🏥 **Health Impact** → Who is most affected?  
+> - 🧠 **Consumer Awareness** → Do people know about the problem?  
+> - 💰 **Economic Feasibility** → Can they afford solutions?  
+
+---
+
+

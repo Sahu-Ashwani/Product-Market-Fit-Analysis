@@ -21,10 +21,10 @@ The company is in the early stages of product development and is unsure whether 
 
 ### 🧩 **Critical Business Questions**
 
-- **What pollutants should the air purifier target?**  
-- **What features are essential for product development?**  
-- **Which cities have the highest demand potential?**  
-- **How can R&D align with localized pollution patterns?**
+- What pollutants should the air purifier target?  
+- What **features** are essential for product development?  
+- Which cities have the **highest demand potential?** 
+- How can R&D align with localized **pollution patterns?**
 
 ### ⚠️ **The Stakes**
 

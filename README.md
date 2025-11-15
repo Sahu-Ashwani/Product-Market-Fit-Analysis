@@ -229,3 +229,11 @@ air-purifier-market-analysis/<br>
 │   └── Executive Summary/<br>
 │<br>
 └── README.md<br>
+
+---
+
+## 👨‍💻 Author
+
+**Ashwani Kumar Sahu**  
+B.Tech + M.Tech (Transportation Engineering), IIT Bhubaneswar  
+**Focus Areas:** Product Analytics • Data Science • Experiment Design
